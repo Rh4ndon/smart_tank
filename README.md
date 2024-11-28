@@ -23,7 +23,7 @@ Welcome to the Smart Tank Project! This project is designed to create an autonom
 ## Circuit Diagram
 
 <div id="header" align="center">
-  <img src="path/to/your/diagram.jpg" alt="Circuit Diagram" width="600"/>
+  <img src="diagram.jpg" alt="Circuit Diagram" width="600"/>
 </div>
 
 ## Installation
